@@ -1,0 +1,6 @@
+# Ignore virtual environment directories
+venv/
+
+# Ignore database files
+*.csv
+*.xls*
